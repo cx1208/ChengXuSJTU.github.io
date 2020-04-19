@@ -1,7 +1,7 @@
 ---
 title: "Explaining Knowledge Distillation by Quantifying the Knowledge"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+
 
 date: 2009-10-01
 venue: 'CVPR 2020'
