@@ -13,7 +13,7 @@ I am now an Assistant professor in [School of Computer Science and Engineering](
 
 # Research Interests
 My research interests include various topics in deep learning, especially the **explainablity** of deep learning.
-Work related to these topics have been publised in top-tier conferences and journals, including TPAMI, NeurIPS, ICML, CVPR, and AAAI.
+Work related to these topics have been publised in top-tier conferences and journals, including **TPAMI, NeurIPS, ICML, CVPR, and AAAI**.
 
 # Looking for Students and Partnership
 I am looking for highly motivated students (PhD, master, undergraduate students) to work together on machine learning and Explainable AI, especially theoretical/experimental explanation of the inference logic/representation capacity of DNNs, and reliable guidance for improving the performance. Please feel free to send me your CV, if you have interest.
