@@ -25,7 +25,7 @@ Work related to these topics have been publised in top-tier conferences and jour
 
 # Looking for Students and Partnership
 ___
-​I am looking for highly motivated students (PhD, master, undergraduate students) to work together on machine learning and Explainable AI, especially theoretical/experimental explanation of the inference logic/representation capacity of DNNs, and reliable guidance for improving the performance. Please feel free to send me your CV, if you have interest.
+​I am looking for highly motivated students (Ph.D, master, undergraduate students) to work together on machine learning and Explainable AI, especially theoretical/experimental explanation of the inference logic/representation capacity of DNNs, and reliable guidance for improving the performance. Please feel free to send me your CV, if you have interest.
 
 I am actively looking for partnership so that we can together make the impossible possible :)
 
