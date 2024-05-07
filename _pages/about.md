@@ -14,7 +14,7 @@ I am now an Assistant Professor in [School of Computer Science and Engineering](
 
 
 
-# Research Interests <font color=#FF0000> 字体改成红色了 </font>
+# Research Interests 
 ---
 My research interests include various topics in deep learning, especially the **explainablity of deep learning**.
 Work related to these topics have been publised in top-tier conferences and journals, including **TPAMI, NeurIPS, ICML, CVPR, and AAAI**.
