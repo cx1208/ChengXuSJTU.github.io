@@ -38,7 +38,7 @@ ___
 **One Paper Accepted by ICML 2024! Coming Soon!**  
 _**Xu Cheng<sup>#</sup>**_, Lei Cheng<sup>#</sup>, Zhaoran Peng, Quanshi Zhang
 
-[Clarifying the Behavior and the Difficulty of Adversarial Training](https://ojs.aaai.org/index.php/AAAI/article/view/29032) in **AAAI 2023**.  
+[Clarifying the Behavior and the Difficulty of Adversarial Training](https://ojs.aaai.org/index.php/AAAI/article/view/29032) in **AAAI 2024**.  
 _**Xu Cheng**_, Hao Zhang, Yue Xin, Wen Shen, Quanshi Zhang
 
 [Towards the Difficulty for a Deep Neural Network to Learn Concepts of Different Complexities]() in **NeurIPS 2023**.  
