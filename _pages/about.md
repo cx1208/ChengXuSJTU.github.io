@@ -62,10 +62,10 @@ _**Xu Cheng**_, Zhefan Rao, Yilan Chen, Quanshi Zhang
 # ArXiv Papers
 ---
 [Formulating and Analyzing How a DNN Encodes Visual Concepts from the Interaction Perspective](https://arxiv.org/pdf/2106.10938) in arXiv:2106.10938.  
-Xu Cheng, Chuntung Chu, Yi Zheng, Jie Ren, Jinpeng Zhang, Hao Zhang, Quanshi Zhang
+_**Xu Cheng**_, Chuntung Chu, Yi Zheng, Jie Ren, Jinpeng Zhang, Hao Zhang, Quanshi Zhang
 
 [Do Game-Theoretic Interactions Really Reflect Prototypical Concepts in DNNs?](https://arxiv.org/pdf/2108.02646) in arXiv:2108.02646.  
-Xu Cheng, Xin Wang, Haotian Xue, Zhengyang Liang, Quanshi Zhang
+_**Xu Cheng**_, Xin Wang, Haotian Xue, Zhengyang Liang, Quanshi Zhang
 
 
 
