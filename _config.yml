@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Xu Cheng"
   avatar           : "cx.png"
-  bio              : "Ph.D. Candidate, 
-                      SJTU"
-  location         : "Shanghai, China"
+  bio              : "Assistant profess, 
+                      NJUST"
+  location         : "Nanjing, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=v8AKaXMAAAAJ&hl=zh-CN&oi=sra"
-  email            : "xcheng8@sjtu.edu.cn"
+  email            : "xcheng8@njust.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
