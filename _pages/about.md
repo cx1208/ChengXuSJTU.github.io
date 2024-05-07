@@ -18,8 +18,8 @@ I am now an Assistant Professor in [School of Computer Science and Engineering](
 
 # Research Interests 
 ---
-My research interests include various topics in deep learning, especially the **explainablity of deep learning**.
-Work related to these topics have been publised in top-tier conferences and journals, including **TPAMI, NeurIPS, ICML, CVPR, and AAAI**.
+My research interests include various topics in deep learning, especially the **explainablity of deep learning**.  
+Work related to these topics has publised in top-tier conferences and journals, including **TPAMI, NeurIPS, ICML, CVPR, and AAAI**.
 
 
 
