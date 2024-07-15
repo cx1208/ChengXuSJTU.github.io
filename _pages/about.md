@@ -11,7 +11,7 @@ redirect_from:
 
 # Biography 
 ---
-I am now an Assistant Professor in [School of Computer Science and Engineering](https://cs.njust.edu.cn) of [Nanjing University of Science and Technology](https://www.njust.edu.cn), where I am a member of [IMAG](https://imag-njust.net). I received my doctoral degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) under the supervision of Dr. [Quanshi Zhang](http://qszhang.com/#) in 2023, and received my B.E. degree from [Xiamen University](https://www.xmu.edu.cn) in 2018. Morever, I have served as the reviewer for top-tier conferences, including NeurIPS, ICLR, CVPR, and ICML.
+I am now an Assistant Professor in [School of Computer Science and Engineering](https://cs.njust.edu.cn) of [Nanjing University of Science and Technology](https://www.njust.edu.cn), where I am a member of [IMAG](https://imag-njust.net). I received my doctoral degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) under the supervision of Dr. [Quanshi Zhang](http://qszhang.com/#) in 2023, and received my B.E. degree from [Xiamen University](https://www.xmu.edu.cn) in 2018. Morever, I have served as the reviewer for top-tier conferences/journals, including NeurIPS, ICLR, CVPR, ICML, and TMLR.
 
 
 
@@ -33,7 +33,7 @@ I am actively looking for partnership so that we can together make the impossibl
 
 
 
-# Publications
+# Selected Publications
 ___
 **One Paper Accepted by ICML 2024! Coming Soon!**  
 _**Xu Cheng<sup>#</sup>**_, Lei Cheng<sup>#</sup>, Zhaoran Peng, Quanshi Zhang
@@ -55,8 +55,6 @@ Die Zhang, Huilin Zhou, Hao Zhang, Xiaoyi Bao, Da Huo, Ruizhao Chen, _**Xu Cheng
 
 [Explaining knowledge distillation by quantifying the knowledge](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Explaining_Knowledge_Distillation_by_Quantifying_the_Knowledge_CVPR_2020_paper.pdf) in **CVPR 2020**.  
 _**Xu Cheng**_, Zhefan Rao, Yilan Chen, Quanshi Zhang
-
-
 
 
 # ArXiv Papers
