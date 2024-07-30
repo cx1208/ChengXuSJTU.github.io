@@ -11,7 +11,7 @@ redirect_from:
 
 # Biography 
 ---
-I am now an Assistant Professor in [School of Computer Science and Engineering](https://cs.njust.edu.cn) of [Nanjing University of Science and Technology](https://www.njust.edu.cn), where I am a member of [IMAG](https://imag-njust.net). I received my doctoral degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) under the supervision of Dr. [Quanshi Zhang](http://qszhang.com/#) in 2023, and received my B.E. degree from [Xiamen University](https://www.xmu.edu.cn) in 2018. Morever, I have served as the reviewer for top-tier conferences/journals, including NeurIPS, ICLR, CVPR, ICML, and TMLR.
+I am now an Assistant Professor in [School of Computer Science and Engineering](https://cs.njust.edu.cn) of [Nanjing University of Science and Technology](https://www.njust.edu.cn), where I am a member of [IMAG](https://imag-njust.net). I received my doctoral degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) under the supervision of Dr. [Quanshi Zhang](http://qszhang.com/#) in 2023, and received my B.E. degree from [Xiamen University](https://www.xmu.edu.cn) in 2018. Morever, I have served as the reviewer for top-tier conferences/journals, including NeurIPS, ICLR, CVPR, ICML, T-PAMI and TMLR.
 
 
 
