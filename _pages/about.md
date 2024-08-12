@@ -35,8 +35,8 @@ I am actively looking for partnership so that we can together make the impossibl
 
 # Selected Publications
 ___
-**One Paper Accepted by ICML 2024! Coming Soon!**  
-_**Xu Cheng<sup>#</sup>**_, Lei Cheng<sup>#</sup>, Zhaoran Peng, Quanshi Zhang
+[Layerwise Change of Knowledge in Neural Networks](https://proceedings.mlr.press/v235/cheng24b.html) in **ICML 2024**.   
+_**Xu Cheng<sup>#</sup>**_, Lei Cheng<sup>#</sup>, Zhaoran Peng, Yang Xu, Tian Han, Quanshi Zhang
 
 [Clarifying the Behavior and the Difficulty of Adversarial Training](https://ojs.aaai.org/index.php/AAAI/article/view/29032) in **AAAI 2024**.  
 _**Xu Cheng**_, Hao Zhang, Yue Xin, Wen Shen, Quanshi Zhang
