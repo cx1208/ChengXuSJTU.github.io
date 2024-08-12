@@ -41,20 +41,20 @@ _**Xu Cheng<sup>#</sup>**_, Lei Cheng<sup>#</sup>, Zhaoran Peng, Yang Xu, Tian H
 [Clarifying the Behavior and the Difficulty of Adversarial Training](https://ojs.aaai.org/index.php/AAAI/article/view/29032) in **AAAI 2024**.  
 _**Xu Cheng**_, Hao Zhang, Yue Xin, Wen Shen, Quanshi Zhang
 
-[Towards the Difficulty for a Deep Neural Network to Learn Concepts of Different Complexities]() in **NeurIPS 2023**.  
-Dongrui Liu<sup>#</sup>, Huiqi Deng<sup>#</sup>, _**Xu Cheng**_, Qihan Ren, Kangrui Wang, Quanshi Zhang
-
 [Quantifying the knowledge in a DNN to explain knowledge distillation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9864081) in **TPAMI 2022**.  
 Quanshi Zhang<sup>#</sup>, _**Xu Cheng<sup>#</sup>**_, Yilan Chen, Zhefan Rao
+
+[Explaining knowledge distillation by quantifying the knowledge](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Explaining_Knowledge_Distillation_by_Quantifying_the_Knowledge_CVPR_2020_paper.pdf) in **CVPR 2020**.  
+_**Xu Cheng**_, Zhefan Rao, Yilan Chen, Quanshi Zhang
+
+[Towards the Difficulty for a Deep Neural Network to Learn Concepts of Different Complexities]() in **NeurIPS 2023**.  
+Dongrui Liu<sup>#</sup>, Huiqi Deng<sup>#</sup>, _**Xu Cheng**_, Qihan Ren, Kangrui Wang, Quanshi Zhang
 
 [A Unified Game-theoretic Interpretation of Adversarial Robustness](https://proceedings.neurips.cc/paper/2021/file/1f4fe6a4411edc2ff625888b4093e917-Paper.pdf) in **NeurIPS 2021**.  
 Jie Ren<sup>#</sup>, Die Zhang<sup>#</sup>, Yisen Wang<sup>#</sup>, Lu Chen, Zhanpeng Zhou, Yiting Chen, _**Xu Cheng**_, Xin Wang, Meng Zhou, Jie Shi, Quanshi Zhang.
 
 [Building Interpretable Interaction Trees for Deep NLP Models](https://cdn.aaai.org/ojs/17685/17685-13-21179-1-2-20210518.pdf) in **AAAI 2021**.  
 Die Zhang, Huilin Zhou, Hao Zhang, Xiaoyi Bao, Da Huo, Ruizhao Chen, _**Xu Cheng**_, Mengyue Wu, Quanshi Zhang
-
-[Explaining knowledge distillation by quantifying the knowledge](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Explaining_Knowledge_Distillation_by_Quantifying_the_Knowledge_CVPR_2020_paper.pdf) in **CVPR 2020**.  
-_**Xu Cheng**_, Zhefan Rao, Yilan Chen, Quanshi Zhang
 
 
 # ArXiv Papers
