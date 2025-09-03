@@ -35,7 +35,7 @@ _**招收硕士生、本科实习生，欢迎对人工智能充满兴趣的学�
 
 # Selected Publications
 ___
-[A Unified Interpretation of Training-Time Out-of-Distribution Detection] in **ICCV 2025**.   
+A Unified Interpretation of Training-Time Out-of-Distribution Detection in **ICCV 2025**.   
 _**Xu Cheng**_, Xin Jiang, Zechao Li
 
 [Layerwise Change of Knowledge in Neural Networks](https://proceedings.mlr.press/v235/cheng24b.html) in **ICML 2024**.   
