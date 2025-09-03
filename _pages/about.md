@@ -25,12 +25,12 @@ Work related to these topics has publised in top-tier conferences and journals, 
 
 # Looking for Students and Partnership
 ___
-​I am looking for highly motivated students (Ph.D, master, undergraduate students) to work together on machine learning and Explainable AI, especially theoretical/experimental explanation of the inference logic/representation capacity of DNNs, and reliable guidance for improving the performance. Please feel free to send me your CV, if you have interest.
+​I am looking for highly motivated students (Ph.D, master, undergraduate students) to work together on machine learning and Explainable AI, especially theoretical/experimental explanation of the inference logic/representation capacity of DNNs, and reliable guidance for improving the performance. Please feel free to send me your CV (_**xcheng8@njust.edu.cn**_), if you have interest.
 
 I am actively looking for partnership so that we can together make the impossible possible :)
 
-
-
+_**招收硕士生、本科实习生，欢迎对人工智能充满兴趣的学生联系我，课题组内具有浓厚的学术氛围，我将为每一位学生供系统而深入的科研指导、丰厚的科研补贴与奖励、充足的计算资源、以及丰富的团建活动，优秀者可以支持海外学术交流与工作推荐！
+请将简历发送至邮箱xcheng8@njust.edu.cn**_
 
 
 # Selected Publications
