@@ -35,6 +35,9 @@ I am actively looking for partnership so that we can together make the impossibl
 
 # Selected Publications
 ___
+[A Unified Interpretation of Training-Time Out-of-Distribution Detection] in **ICCV 2025**.   
+_**Xu Cheng**_, Xin Jiang, Zechao Li
+
 [Layerwise Change of Knowledge in Neural Networks](https://proceedings.mlr.press/v235/cheng24b.html) in **ICML 2024**.   
 _**Xu Cheng<sup>#</sup>**_, Lei Cheng<sup>#</sup>, Zhaoran Peng, Yang Xu, Tian Han, Quanshi Zhang
 
@@ -47,7 +50,10 @@ Quanshi Zhang<sup>#</sup>, _**Xu Cheng<sup>#</sup>**_, Yilan Chen, Zhefan Rao
 [Explaining knowledge distillation by quantifying the knowledge](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Explaining_Knowledge_Distillation_by_Quantifying_the_Knowledge_CVPR_2020_paper.pdf) in **CVPR 2020**.  
 _**Xu Cheng**_, Zhefan Rao, Yilan Chen, Quanshi Zhang
 
-[Towards the Difficulty for a Deep Neural Network to Learn Concepts of Different Complexities]() in **NeurIPS 2023**.  
+[Interpretable Rotation-Equivariant Multiary-Valued Network for Attribute Obfuscation](https://ieeexplore.ieee.org/abstract/document/11127007) in **TPAMI 2025**.  
+Quanshi Zhang, Hao Zhang, Yiting Chen, Qihan Ren, Jie Ren, _**Xu Cheng**_, Liyao Xiang
+
+[Towards the Difficulty for a Deep Neural Network to Learn Concepts of Different Complexities](https://proceedings.neurips.cc/paper_files/paper/2023/file/8143b8c73073a9a23b9c18e400066471-Paper-Conference.pdf) in **NeurIPS 2023**.  
 Dongrui Liu<sup>#</sup>, Huiqi Deng<sup>#</sup>, _**Xu Cheng**_, Qihan Ren, Kangrui Wang, Quanshi Zhang
 
 [A Unified Game-theoretic Interpretation of Adversarial Robustness](https://proceedings.neurips.cc/paper/2021/file/1f4fe6a4411edc2ff625888b4093e917-Paper.pdf) in **NeurIPS 2021**.  
