@@ -35,11 +35,11 @@ _**招收硕士生、本科实习生，欢迎对人工智能充满兴趣的学�
 
 # Selected Publications
 ___
-A Unified Interpretation of Training-Time Out-of-Distribution Detection in **ICCV 2025**.   
+[A Unified Interpretation of Training-Time Out-of-Distribution Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Cheng_A_Unified_Interpretation_of_Training-Time_Out-of-Distribution_Detection_ICCV_2025_paper.pdf) in **ICCV 2025 (Highlight)**.   
 _**Xu Cheng**_, Xin Jiang, Zechao Li
 
 [Layerwise Change of Knowledge in Neural Networks](https://proceedings.mlr.press/v235/cheng24b.html) in **ICML 2024**.   
-_**Xu Cheng<sup>#</sup>**_, Lei Cheng<sup>#</sup>, Zhaoran Peng, Yang Xu, Tian Han, Quanshi Zhang
+_**Xu Cheng**_, Lei Cheng, Zhaoran Peng, Yang Xu, Tian Han, Quanshi Zhang
 
 [Clarifying the Behavior and the Difficulty of Adversarial Training](https://ojs.aaai.org/index.php/AAAI/article/view/29032) in **AAAI 2024**.  
 _**Xu Cheng**_, Hao Zhang, Yue Xin, Wen Shen, Quanshi Zhang
