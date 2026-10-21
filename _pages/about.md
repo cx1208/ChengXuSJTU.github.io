@@ -11,7 +11,7 @@ redirect_from:
 
 # Biography 
 ---
-I am now an Assistant Professor in [School of Computer Science and Engineering](https://cs.njust.edu.cn) of [Nanjing University of Science and Technology](https://www.njust.edu.cn), where I am a member of [IMAG](https://imag-njust.net). I received my doctoral degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) under the supervision of Dr. [Quanshi Zhang](http://qszhang.com/#) in 2023, and received my B.E. degree from [Xiamen University](https://www.xmu.edu.cn) in 2018. Morever, I have served as the reviewer for top-tier conferences and journals, including TPAMI, NeurIPS, ICLR, ICML, CVPR, ICCV, AAAI and TMLR.
+I am now an **Associate Professor** in [School of Computer Science and Engineering](https://cs.njust.edu.cn) of [Nanjing University of Science and Technology](https://www.njust.edu.cn), where I am a member of [IMAG](https://imag-njust.net). I received my doctoral degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) under the supervision of Dr. [Quanshi Zhang](http://qszhang.com/#) in 2023, and received my B.E. degree from [Xiamen University](https://www.xmu.edu.cn) in 2018. Morever, I have served as the reviewer for top-tier conferences and journals, including TPAMI, NeurIPS, ICLR, ICML, CVPR, ICCV, AAAI and TMLR.
 
 
 
@@ -29,12 +29,15 @@ ___
 
 I am actively looking for partnership so that we can together make the impossible possible :)
 
-_**招收硕士生、本科实习生，欢迎对人工智能充满兴趣的学生联系我，课题组内具有浓厚的学术氛围，我将为每一位学生供系统而深入的科研指导、丰厚的科研补贴与奖励、充足的计算资源等，优秀者可以支持海外学术交流与工作推荐，
+_**每年招收2名硕士生、本科实习生，欢迎对人工智能充满兴趣的学生联系我，课题组内具有浓厚的学术氛围，我将为每一位学生供系统而深入的科研指导、丰厚的科研补贴与奖励、充足的计算资源等，优秀者可以支持海外学术交流与工作推荐，
 请将简历发送至邮箱xcheng8@njust.edu.cn。**_
 
 
 # Selected Publications
 ___
+[EGH-Net: Energy-Guided Hypergraph for Two-View Correspondence Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11690510) in **IEEE Transactions on Multimedia**.   
+Xiaojie Li, _**Xu Cheng (corresponding)**_, Jingtao Wang, Xin Jiang, Zechao Li
+
 [A Unified Interpretation of Training-Time Out-of-Distribution Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Cheng_A_Unified_Interpretation_of_Training-Time_Out-of-Distribution_Detection_ICCV_2025_paper.pdf) in **ICCV 2025 (Highlight)**.   
 _**Xu Cheng**_, Xin Jiang, Zechao Li
 
